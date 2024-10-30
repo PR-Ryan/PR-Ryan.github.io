@@ -18,3 +18,14 @@ My research primarily focuses on Text-to-Video Generation and Computer Vision, w
 - **Penghui Ruan**, Divya Saxena, Jiannong Cao, Xiaoyun Liu, Ruoxin Wang, Chi Fai Cheung. _"NASPrecision: Neural Architecture Search-Driven Multi-Stage Learning for Surface Roughness Prediction in Ultra-Precision Machining"_, Expert Systems with Applications, 2024.
 
 - Jialun Zheng, Divya Saxena, Jiannong Cao, Hanchen Yang, **Penghui Ruan**. _"Inductive Spatial Temporal Prediction Under Data Drift with Informative Graph Neural Network"_, International Conference on Database Systems for Advanced Applications (DASFFA), 2024.
+
+
+## Teaching
+
+- COMP1011: Programming Fundamentals (Java), PolyU, Fall, 2022
+
+- COMP1011: Programming Fundamentals (C++), PolyU, Spring, 2023
+
+- COMP1012: Programming Fundamentals and Applications (Python), PolyU, Fall, 2023
+
+- COMP3511: Legal Aspects and Ethics of Computing, PolyU, Spring, 2023
