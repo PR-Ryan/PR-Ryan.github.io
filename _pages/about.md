@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a thrid-year joint Ph.D. student with [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/) supervised by Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/) (Chair Professor, IEEE Fellow, CCF Fellow) and [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) supervised by Prof. [Yuhui Shi](https://www.sustech.edu.cn/en/faculties/shiyuhui.html) (Chair Professor, IEEE Fellow). During my Ph.D. studies, I have closely collaborated with Dr. [Pichao Wang](https://wangpichao.github.io/) from Amazon. I received my B.E. in Computer Science and Technology from SUSTech in 2021.
+I am a third-year joint Ph.D. student with [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/) supervised by Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/) (Chair Professor, IEEE Fellow, CCF Fellow) and [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) supervised by Prof. [Yuhui Shi](https://www.sustech.edu.cn/en/faculties/shiyuhui.html) (Chair Professor, IEEE Fellow). During my Ph.D. studies, I have closely collaborated with Dr. [Pichao Wang](https://wangpichao.github.io/) from Amazon. I received my B.E. in Computer Science and Technology from SUSTech in 2021.
 
 My research focuses on Text-to-Video Generation and Computer Vision, with a particular emphasis on achieving precise alignment between human instructions and generated videos.
 
