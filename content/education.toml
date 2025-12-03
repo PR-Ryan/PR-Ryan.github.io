@@ -1,0 +1,24 @@
+type = "card"
+title = "Education"
+
+
+[[items]]
+title = "Ph.D. in Computer Science"
+subtitle = "The Hong Kong Polytechnic University"
+date = "Sep 2022 - Aug 2026 (Expected)"
+content = "Specializing in Text-to-Video Generation, Video Editing, and 3D Vision. Advisors: Prof. Jiannong Cao and Prof. Yuhui Shi."
+tags = ["PhD", "Computer Science"]
+
+[[items]]
+title = "B.E. in Computer Science and Technology"
+subtitle = "Southern University of Science and Technology"
+date = "Sep 2017 - Jun 2021"
+content = "GPA: 3.74/4.00 (Top 10%)"
+tags = ["Bachelor", "Computer Science"]
+
+[[items]]
+title = "Exchange Student"
+subtitle = "University of Wisconsin-Madison"
+date = "Jan 2020 - Sep 2020"
+content = "GPA: 3.83/4.0 (Top 5%)"
+tags = ["Exchange", "USA"]

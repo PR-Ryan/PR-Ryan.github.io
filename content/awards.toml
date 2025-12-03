@@ -1,0 +1,21 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
+[[items]]
+title = "NeurIPS Scholar Award"
+subtitle = "NeurIPS"
+date = "December 2024"
+content = "NeurIPS Scholar Award, 2024, Vancouver, Canada."
+
+[[items]]
+title = "First Prize Scholarship"
+subtitle = "Southern University of Science and Technology"
+date = "2017 - 2021"
+content = "Awarded annually for outstanding academic performance."
+
+[[items]]
+title = "First Prize - National Physics Competition"
+subtitle = "Chinese Physical Society"
+date = "2016"
+content = "First Prize in The 33rd National Middle School Physics Competition."

@@ -1,0 +1,23 @@
+type = "card"
+title = "Professional Experience"   
+
+[[items]]
+title = "Applied Scientist Intern"
+subtitle = "Amazon"
+date = "Oct 2025 - Jan 2026 (Expected)"
+content = "Researching and developing foundational models for high-quality movie dubbing with precise lip synchronization and video preservation."
+tags = ["Amazon", "Seattle", "Research"]
+
+[[items]]
+title = "AIGC Research Intern"
+subtitle = "IntelliFusion"
+date = "Dec 2024 - Oct 2025"
+content = "Built and trained large-scale T2V/video-editing models with fine-grained control over content via textual conditioning and explicit 3D camera control. Spearheading the creation of a large-scale, multi-task instructional video editing dataset."
+tags = ["IntelliFusion", "Shenzhen", "AI"]
+
+[[items]]
+title = "Software Engineer Intern"
+subtitle = "Tencent"
+date = "Apr 2021 - Jun 2021"
+content = "Migrated sensitive word filtering service from HTTPS to TRPC, optimizing efficiency and enhancing security. Contributed to the Routing Service for video search."
+tags = ["Tencent", "Shenzhen", "Engineering"]
